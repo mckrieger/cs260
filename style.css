@@ -1,0 +1,60 @@
+h1
+{
+font-weight: bold;
+text-decoration: underline;
+color: DarkSlateGray;
+}
+body {
+color:black;
+text-align:center;
+background-color:Silver;
+}
+p {
+  width: 600px;
+  margin: auto;
+  padding-bottom: 20px;
+}
+.intro {
+  border-style: groove;
+  padding: 20px;
+}
+img {
+  padding-top: 20px;
+}
+.bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.elem {
+    float: left;
+}
+
+.nav {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav:hover {
+    background-color: #111;
+}
+.job {
+  color: black;
+
+
+
+}
+.jobs {
+  text-align: left;
+  width: 600px;
+  margin:auto;
+  border-style: solid;
+  padding-top: 10px;
+  padding-bottom:10px;
+}
